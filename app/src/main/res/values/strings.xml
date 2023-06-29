@@ -1,0 +1,86 @@
+<resources>
+    <string name="app_name">SubmissionAplikasiAndroidPemula_MRaihanFauzi</string>
+    <string name="content_text">Google officially announced its much-anticipated Pixel phones; the Pixel and Pixel XL, on October 4. We attended Google’s London UK event, mirroring the main one taking place in San Francisco, US, where the firm unwrapped the new Android 7.1 Nougat devices which will apparently usurp Google’s long-standing Nexus series.</string>
+    <string name="content_specs_display">5.0 inches\n
+    FHD AMOLED at 441ppi\n
+    2.5D Corning® Gorilla® Glass 4</string>
+    <string name="content_specs_size">5.6 x 2.7 x 0.2 ~ 0.3 inches 143.8 x 69.5 x 7.3 ~ 8.5 mm</string>
+    <string name="content_specs_battery">2,770 mAh battery\n
+    Standby time (LTE): up to 19 days\n
+    Talk time (3g/WCDMA): up to 26 hours\n
+    Internet use time (Wi-Fi): up to 13 hours\n
+    Internet use time (LTE): up to 13 hours\n
+    Video playback: up to 13 hours\n
+    Audio playback (via headset): up to 110 hours\n
+    Fast charging: up to 7 hours of use from only 15 minutes of charging</string>
+    <string name="stock">Stock hanya 5 buah</string>
+    <string name="specification">Spesifikasi</string>
+    <string name="display">Display</string>
+    <string name="size">Size</string>
+    <string name="battery">Battery</string>
+    <string name="seller">Dijual oleh</string>
+    <string name="my_name">Muhammad Raihan Fauzi</string>
+    <string name="buy">Beli</string>
+    <string name="dummy_value">$735</string>
+    <string name="dummy_photos">1 photos</string>
+
+    <string name="smartphone_name">Nama Smartphone</string>
+    <string name="description">Deskripsi</string>
+
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+
+    <string-array name="data_name">
+        <item>Iphone 14 Pro</item>
+        <item>ROG Phone 6 Pro</item>
+        <item>Samsung S22 Ultra</item>
+        <item>Xiaomi 13 Pro</item>
+        <item>Oppo Reno 8T</item>
+        <item>Vivo X80 Pro</item>
+        <item>Huawei P50 Pro</item>
+        <item>Oneplus 9 Pro</item>
+        <item>Infinix Zero X</item>
+        <item>Samsung Galaxy Z Fold</item>
+        <item>Ipad Pro Gen 5</item>
+        <item>Samsung Galaxy Z Flip</item>
+        <item>OPPO Find N2 Flip</item>
+        <item>Motorola Razr</item>
+        <item>Xiaomi Mi Fold</item>
+    </string-array>
+
+    <string-array name="data_specification">
+        <item>IPhone adalah merek ponsel cerdas yang dirancang dan dipasarkan oleh Apple Inc. dan menggunakan sistem operasi telepon genggam iOS. iPhone generasi pertama diumumkan oleh CEO Apple Steve Jobs pada tanggal 9 Januari 2007. Sejak saat itu, Apple merilis model iPhone baru dan pembaruan iOS setiap tahun.</item>
+        <item>ROG Phone adalah ponsel gaming terkuat yang menggunakan Platform Mobile Qualcomm® Snapdragon ™ terbaru dengan kemampuan komunikasi seluler yang canggih.</item>
+        <item>Seri Samsung Galaxy S adalah jajaran perangkat seluler Android kelas atas yang diproduksi oleh Samsung Electronics. Seri ini awalnya terdiri dari ponsel-ponsel cerdas dan perangkat pertama, Samsung Galaxy S, diumumkan pada Maret 2010 dan dirilis untuk dijual pada Juni tahun itu. Samsung kemudian memperluas lini Galaxy S ke komputer tablet dengan pengumuman Galaxy Tab S pada Juni 2014 dan dirilis pada bulan berikutnya.</item>
+        <item>Xiaomi 13 Pro merupakan smartphone flagship yang hadir sebagai versi tangguh dari Xiaomi 13.</item>
+        <item>Oppo Reno adalah series smartphone besutan brand Oppo yang dilengkapi oleh sejuta fitur menarik. Series Reno dari Oppo berhasil memikat publik melalui spesifikasi, desain, sekaligus fitur yang sangat lengkap di dalamnya. Yang mana tipe gadget dalam seri Reno pun beragam.</item>
+        <item>vivo X Series menjadi salah satu smartphone premium yang bersaing di pasar Indonesia, dengan membawa spesifikasi yang tinggi di kelasnya, serta dibekali dengan fitur-fitur yang mengusung teknologi terkini.</item>
+        <item>Seri Huawei P (sebelumnya seri Ascend P) adalah jajaran smartphone Android kelas atas dan menengah yang diproduksi oleh Huawei. Seri P sebelumnya dipasarkan sebagai bagian dari merek Ascend Huawei yang lebih besar. Beberapa model disebut P smart.</item>
+        <item>OnePlus adalah merk smartphone asal Shenzhen, China, yang terkenal dengan produk smartphone berspesifikasi mumpuni, desain menarik, software terkini, tetapi harga jualnya cukup terjangkau. Bahkan merk ini disebut-sebut sebagai brand flagship killer.</item>
+        <item>Infinix Zero X keluaran tahun berapa? Infinix Zero X Neo resmi hadir di pasar Indonesia sejak akhir tahun 2021 dengan spesifikasi handal dan harga terjangkau.</item>
+        <item>Samsung Galaxy Z Fold adalah ponsel cerdas lipat berbasis Android yang dikembangkan oleh Samsung Electronics.</item>
+        <item>iPad merupakan tablet dari Apple yang tidak hanya bermanfaat untuk menunjang pekerjaan, tetapi juga bisa digunakan sebagai media hiburan dan hobi. Seri Pro merupakan varian tertinggal yang ditawarkan oleh Apple pada segmen Ipad-nya.</item>
+        <item>Samsung Z Flip merupakan produk yang dibekali dengan bahan ultra thin glass pada layar utama dan stacked think film material untuk memudahkan ponsel agar layar lebih fleksibel saat dilipat berulang kali.</item>
+        <item>HP Oppo Find N adalah produk yang dikembangkan selama empat tahun terakhir oleh OPPO dan akhirnya dikenalkan lewat acara tahunan OPPO INNO Day 2021.</item>
+        <item>Meet razr the pocket-ready flip phone fused with the intelligence of a modern smartphone. Fully foldable, dual displays.</item>
+        <item>Xiaomi Mi Fold merupakan smartphone lipat keluaran xiaomi dengan layar OLED.</item>
+    </string-array>
+
+    <string-array name="data_photo">
+        <item>https://www.apple.com/v/iphone-14-pro/d/images/meta/iphone-14-pro_overview__3dn6st99cpea_og.png?202303062208</item>
+        <item>https://dlcdnwebimgs.asus.com/gain/FB338DAC-B312-4D25-A7A3-DBDBDBC123CA</item>
+        <item>https://images.samsung.com/id/smartphones/galaxy-s22-ultra/buy/S22_Ultra_ProductKV_Burgundy_MO.jpg?$ORIGIN_JPG$</item>
+        <item>https://fdn2.gsmarena.com/vv/bigpic/xiaomi-13-pro-black.jpg</item>
+        <item>https://cdn.eraspace.com/media/catalog/product/o/p/oppo_reno_8t_sunset_orange1.jpg</item>
+        <item>https://asia-exstatic-vivofs.vivo.com/PSee2l50xoirPK7y/1657264744321/b353dea0bf63c88fcd5ccf8ca3b2dc72.png</item>
+        <item>https://consumer.huawei.com/content/dam/huawei-cbg-site/common/mkt/pdp/phones/p50-pro/images/camera/intro.jpg</item>
+        <item>https://www.tokohapedia.co.id/storage/media/tyLJk6U2BjitBBnrODTyQRn9Exznb1elBaiDSfzu.png</item>
+        <item>https://cdn.eraspace.com/media/catalog/product/h/i/hin-zrxn-8g-bla1_1.jpg</item>
+        <item>https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//110/MTA-58619936/samsung_samsung_galaxy_z_fold_4_5g_12-512gb_full02_u0uy5ub6.jpg</item>
+        <item>https://cdn.eraspace.com/media/catalog/product/a/p/apple_ipad_pro_2021_12.9-inci_wi-fi_cellular_space_grey_1_1_1_1_1_1_1.jpg</item>
+        <item>https://cdn11.bigcommerce.com/s-ss31ap/images/stencil/1280x1280/products/7944/37955/716P9qOKcUL__36543.1634008359.jpg?c=2</item>
+        <item>https://image.oppo.com/content/dam/oppo/product-asset-library/find/find-n2-series/global/find-n2-flip/v1/assets/images-kv-en-purple-mo-1.png.webp</item>
+        <item>https://cdn.vox-cdn.com/thumbor/-jei8eftKl1bPgQDQ8F_X3jVE4w=/0x0:2040x1360/1400x1400/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/19716765/awhite_200210_3893_0021.jpg</item>
+        <item>https://asset.kompas.com/crops/lR5eSq3w1NAo_ggzQ0mHsSKJ1DE=/118x49:1155x740/750x500/data/photo/2021/03/31/6063b96360f14.png</item>
+    </string-array>
+</resources>
